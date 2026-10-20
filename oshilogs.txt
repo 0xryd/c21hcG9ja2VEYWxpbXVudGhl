@@ -12,84 +12,88 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Dalimunthe =====
-[1]Dalimunthe  |10:31:49 | 19-10-2026| login OK @0xcynn | score=1820 rank=3687
-[1]Dalimunthe  |10:31:49 | 19-10-2026| serverTime=2026-10-19T10:31:49.000Z local=2026-10-19T10:31:49.926Z
+[1]Dalimunthe  |09:49:14 | 20-10-2026| login OK @0xcynn | score=1980 rank=3348
+[1]Dalimunthe  |09:49:14 | 20-10-2026| serverTime=2026-10-20T09:49:14.000Z local=2026-10-20T09:49:14.063Z
 --> [1]Dalimunthe menjalankan: Claim Daily
-[1]Dalimunthe  |10:31:51 | 19-10-2026| daily: OK +10 poin score=1830
---> [1]Dalimunthe menjalankan: Auto All Tasks (9 pending)
-[1]Dalimunthe  |10:31:53 | 19-10-2026| [1/9] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/0xcynn/status/2112129165982970327
-[1]Dalimunthe  |10:31:53 | 19-10-2026| delay 10s...
-[1]Dalimunthe  |10:32:07 | 19-10-2026| [2/9] 29d2bf65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/0xcynn/status/2112129195606137590
-[1]Dalimunthe  |10:32:07 | 19-10-2026| delay 10s...
-[1]Dalimunthe  |10:32:21 | 19-10-2026| [3/9] 1cc2da8d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/0xcynn/status/2112129255362260133
-[1]Dalimunthe  |10:32:21 | 19-10-2026| delay 10s...
-[1]Dalimunthe  |10:32:33 | 19-10-2026| [4/9] e792000f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/0xcynn/status/2112129220984395316
-[1]Dalimunthe  |10:32:33 | 19-10-2026| delay 10s...
-[1]Dalimunthe  |10:32:46 | 19-10-2026| [5/9] 5830cfb5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/0xcynn/status/2112129298762285410
-[1]Dalimunthe  |10:32:46 | 19-10-2026| delay 10s...
-[1]Dalimunthe  |10:32:58 | 19-10-2026| [6/9] 75d20c29 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/0xcynn/status/2112129607553721650
-[1]Dalimunthe  |10:32:58 | 19-10-2026| delay 10s...
-[1]Dalimunthe  |10:33:12 | 19-10-2026| [7/9] c4a0bafb (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/0xcynn/status/2112129622282075662
-[1]Dalimunthe  |10:33:12 | 19-10-2026| delay 10s...
-[1]Dalimunthe  |10:33:24 | 19-10-2026| [8/9] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/0xcynn/status/2112129426951204077
-[1]Dalimunthe  |10:33:24 | 19-10-2026| delay 10s...
-[1]Dalimunthe  |10:33:37 | 19-10-2026| [9/9] c821602a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/0xcynn/status/2112129717217637908
-[1]Dalimunthe  |10:33:37 | 19-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Dalimunthe  |10:33:39 | 19-10-2026| [1/1] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112092800401699 | proof=https://x.com/0xcynn/status/2112129771103905836
+[1]Dalimunthe  |09:49:15 | 20-10-2026| daily: sudah klaim (already=true) score=1980
+--> [1]Dalimunthe menjalankan: Auto All Tasks (0 pending)
+[1]Dalimunthe  |09:49:15 | 20-10-2026| mode auto: verify 0 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
 --> [1]Dalimunthe menjalankan: Watch Anime
-[1]Dalimunthe  |10:33:40 | 19-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Dalimunthe  |10:33:40 | 19-10-2026| watch [1/4] farming oshi-captains-hat...
-  video baru dikenal: oshi-captains-hat (katalog +5)
-[1]Dalimunthe  |10:33:42 | 19-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Dalimunthe  |10:33:47 | 19-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Dalimunthe  |10:33:48 | 19-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Dalimunthe  |10:33:53 | 19-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Dalimunthe  |10:33:55 | 19-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
-[1]Dalimunthe  |10:34:00 | 19-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Dalimunthe  |10:34:02 | 19-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
+[1]Dalimunthe  |09:49:15 | 20-10-2026| watch: 2 video belum completed: oshi-captains-hat,oshi-rainbow-star
+[1]Dalimunthe  |09:49:15 | 20-10-2026| watch [1/2] farming oshi-captains-hat...
+[1]Dalimunthe  |09:49:16 | 20-10-2026| watch oshi-captains-hat: mulai dari 0 (record 46.7s diabaikan)
+[1]Dalimunthe  |09:49:17 | 20-10-2026| watch oshi-captains-hat: 50% (46.72/92.00s)
+[1]Dalimunthe  |09:49:23 | 20-10-2026| watch oshi-captains-hat: 50% (46.72/92.00s)
+[1]Dalimunthe  |09:49:29 | 20-10-2026| watch oshi-captains-hat: 50% (46.72/92.00s)
+[1]Dalimunthe  |09:49:35 | 20-10-2026| watch oshi-captains-hat: 50% (46.72/92.00s)
+[1]Dalimunthe  |09:49:41 | 20-10-2026| watch oshi-captains-hat: 50% (46.72/92.00s)
+[1]Dalimunthe  |09:49:47 | 20-10-2026| watch oshi-captains-hat: 50% (46.72/92.00s)
+[1]Dalimunthe  |09:49:53 | 20-10-2026| watch oshi-captains-hat: 50% (46.72/92.00s)
+[1]Dalimunthe  |09:50:00 | 20-10-2026| watch oshi-captains-hat: 50% (46.72/92.00s)
+[1]Dalimunthe  |09:50:06 | 20-10-2026| watch oshi-captains-hat: 50% (46.72/92.00s)
+[1]Dalimunthe  |09:50:13 | 20-10-2026| watch oshi-captains-hat: 53% (49.24/92.00s)
+[1]Dalimunthe  |09:50:31 | 20-10-2026| watch oshi-captains-hat: heartbeat GAGAL http=503
+[1]Dalimunthe  |09:50:36 | 20-10-2026| watch [2/2] farming oshi-rainbow-star...
+[1]Dalimunthe  |09:50:38 | 20-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
+[1]Dalimunthe  |09:50:44 | 20-10-2026| watch oshi-rainbow-star: 5% (5.11/86.00s)
+[1]Dalimunthe  |09:50:50 | 20-10-2026| watch oshi-rainbow-star: 12% (10.47/86.00s)
+[1]Dalimunthe  |09:50:56 | 20-10-2026| watch oshi-rainbow-star: 18% (15.80/86.00s)
+[1]Dalimunthe  |09:51:02 | 20-10-2026| watch oshi-rainbow-star: 24% (21.15/86.00s)
+[1]Dalimunthe  |09:51:08 | 20-10-2026| watch oshi-rainbow-star: 30% (26.65/86.00s)
+[1]Dalimunthe  |09:51:14 | 20-10-2026| watch oshi-rainbow-star: 37% (32.02/86.00s)
+[1]Dalimunthe  |09:51:20 | 20-10-2026| watch oshi-rainbow-star: 43% (37.35/86.00s)
+[1]Dalimunthe  |09:51:26 | 20-10-2026| watch oshi-rainbow-star: 49% (42.86/86.00s)
+[1]Dalimunthe  |09:51:32 | 20-10-2026| watch oshi-rainbow-star: 56% (48.21/86.00s)
+[1]Dalimunthe  |09:51:38 | 20-10-2026| watch oshi-rainbow-star: 62% (54.01/86.00s)
+[1]Dalimunthe  |09:51:44 | 20-10-2026| watch oshi-rainbow-star: 69% (59.38/86.00s)
+[1]Dalimunthe  |09:51:50 | 20-10-2026| watch oshi-rainbow-star: 75% (64.89/86.00s)
+[1]Dalimunthe  |09:51:56 | 20-10-2026| watch oshi-rainbow-star: 81% (70.25/86.00s)
+[1]Dalimunthe  |09:52:02 | 20-10-2026| watch oshi-rainbow-star: 87% (75.67/86.00s)
+[1]Dalimunthe  |09:52:08 | 20-10-2026| watch oshi-rainbow-star: 94% (81.31/86.00s)
+[1]Dalimunthe  |09:52:08 | 20-10-2026| watch oshi-rainbow-star: COMPLETED (81.31/86.00s)
 --> [1]Dalimunthe menjalankan: Read Article
-[1]Dalimunthe  |10:34:04 | 19-10-2026| news: 27/27 artikel selesai dibaca
-[1]Dalimunthe  |10:34:05 | 19-10-2026| mint eligibility: {"userId":"1695425171220463616","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@0xrianda","status":"submitted","revision":"2bcd039d-b50a-4b91-8509-3c25093b951c"
-[1]Dalimunthe  |10:34:05 | 19-10-2026| news: semua artikel sudah dibaca
+[1]Dalimunthe  |09:52:10 | 20-10-2026| news: 27/27 artikel selesai dibaca
+[1]Dalimunthe  |09:52:11 | 20-10-2026| mint eligibility: {"userId":"1695425171220463616","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@0xrianda","status":"submitted","revision":"2bcd039d-b50a-4b91-8509-3c25093b951c"
+[1]Dalimunthe  |09:52:11 | 20-10-2026| news: semua artikel sudah dibaca
 --> [1]Dalimunthe menjalankan: Quiz Anime
-[1]Dalimunthe  |10:34:06 | 19-10-2026| quiz ep1: sudah dijawab
-[1]Dalimunthe  |10:34:06 | 19-10-2026| quiz ep2: sudah dijawab
-[1]Dalimunthe  |10:34:06 | 19-10-2026| quiz ep3: sudah dijawab
-[1]Dalimunthe  |10:34:06 | 19-10-2026| quiz ep4: sudah dijawab
-[1]Dalimunthe  |10:34:06 | 19-10-2026| quiz ep5: sudah dijawab
-[1]Dalimunthe  |10:34:06 | 19-10-2026| quiz ep6: sudah dijawab
+[1]Dalimunthe  |09:52:13 | 20-10-2026| quiz ep1: sudah dijawab
+[1]Dalimunthe  |09:52:13 | 20-10-2026| quiz ep2: sudah dijawab
+[1]Dalimunthe  |09:52:13 | 20-10-2026| quiz ep3: sudah dijawab
+[1]Dalimunthe  |09:52:13 | 20-10-2026| quiz ep4: sudah dijawab
+[1]Dalimunthe  |09:52:13 | 20-10-2026| quiz ep5: sudah dijawab
+[1]Dalimunthe  |09:52:13 | 20-10-2026| quiz ep6: sudah dijawab
 --> [1]Dalimunthe menjalankan: Music Missions (realtime, bisa lama!)
-[1]Dalimunthe  |10:34:09 | 19-10-2026| music: kedua misi sudah tercapai, stop
-[1]Dalimunthe  |10:34:09 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Dalimunthe  |10:34:09 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Dalimunthe  |10:34:09 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Dalimunthe  |09:52:14 | 20-10-2026| music: kedua misi sudah tercapai, stop
+[1]Dalimunthe  |09:52:15 | 20-10-2026| mission music-listens-10: sudah diklaim
+[1]Dalimunthe  |09:52:15 | 20-10-2026| mission music-minutes-30: sudah diklaim
+[1]Dalimunthe  |09:52:15 | 20-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Dalimunthe menjalankan: Claim Missions
-[1]Dalimunthe  |10:34:11 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Dalimunthe  |10:34:11 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Dalimunthe  |10:34:11 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Dalimunthe  |09:52:15 | 20-10-2026| mission music-listens-10: sudah diklaim
+[1]Dalimunthe  |09:52:15 | 20-10-2026| mission music-minutes-30: sudah diklaim
+[1]Dalimunthe  |09:52:15 | 20-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Dalimunthe menjalankan: Check Eligibility
 
 --- eligibility [1]Dalimunthe ---
-  @0xcynn | score=1820 rank=3687
-  tasks    [##################--] 74/83
+  @0xcynn | score=1980 rank=3348
+  tasks    [####################] 79/79
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
-  watch    [####################] 18/17
+  watch    [####################] 21/17
   music    [####################] 11/11
   artikel  [####################] 27/27
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Dalimunthe menjalankan: Read Manga
-[1]Dalimunthe  |10:34:17 | 19-10-2026| manga: 0/13 chapter belum completed
+[1]Dalimunthe  |09:52:19 | 20-10-2026| manga: 0/13 chapter belum completed
 --> [1]Dalimunthe menjalankan: Get Gift
-[1]Dalimunthe  |10:34:17 | 19-10-2026| gift: 0/4 belum diterima
+[1]Dalimunthe  |09:52:19 | 20-10-2026| gift: 0/4 belum diterima
 --> [1]Dalimunthe menjalankan: Setup Profile
-[1]Dalimunthe  |10:34:18 | 19-10-2026| profile: bio="Simulate text" fav=kagura rewardAt=1791330483
-[1]Dalimunthe  |10:34:18 | 19-10-2026| profile: bonus sudah diklaim, skip
+[1]Dalimunthe  |09:52:19 | 20-10-2026| profile: bio="Simulate text" fav=kagura rewardAt=1791330483
+[1]Dalimunthe  |09:52:19 | 20-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Dalimunthe menjalankan: Bind Wallet
-[1]Dalimunthe  |10:34:19 | 19-10-2026| wallet: sudah terikat 7EvQgumG94... (solana)
+[1]Dalimunthe  |09:52:20 | 20-10-2026| wallet: sudah terikat 7EvQgumG94... (solana)
 
 == RINGKASAN ==
-- Dalimunthe: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Dalimunthe: daily=already | tasks OK 0/0 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 1/2 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
