@@ -12,73 +12,70 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Dalimunthe =====
-[1]Dalimunthe  |07:04:30 | 01-11-2026| login OK @0xcynn | score=2940 rank=2355
-[1]Dalimunthe  |07:04:30 | 01-11-2026| serverTime=2026-11-01T07:04:29.000Z local=2026-11-01T07:04:30.017Z
+[1]Dalimunthe  |07:06:39 | 02-11-2026| login OK @0xcynn | score=3060 rank=2271
+[1]Dalimunthe  |07:06:39 | 02-11-2026| serverTime=2026-11-02T07:06:39.000Z local=2026-11-02T07:06:39.855Z
 --> [1]Dalimunthe menjalankan: Claim Daily
-[1]Dalimunthe  |07:04:31 | 01-11-2026| daily: OK +10 poin score=2950
---> [1]Dalimunthe menjalankan: Auto All Tasks (11 pending)
-[1]Dalimunthe  |07:04:33 | 01-11-2026| [1/11] 044a9851 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211678542731958 | proof=https://x.com/0xcynn/status/2116788051753454526
-[1]Dalimunthe  |07:04:33 | 01-11-2026| delay 10s...
-[1]Dalimunthe  |07:04:46 | 01-11-2026| [2/11] 1e9d7a08 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211678542731958 | proof=https://x.com/0xcynn/status/2116788027864027200
-[1]Dalimunthe  |07:04:46 | 01-11-2026| delay 10s...
-[1]Dalimunthe  |07:04:59 | 01-11-2026| [3/11] 5f376a08 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211678542731958 | proof=https://x.com/0xcynn/status/2116788200293308314
-[1]Dalimunthe  |07:04:59 | 01-11-2026| delay 10s...
-[1]Dalimunthe  |07:05:11 | 01-11-2026| [4/11] 8ac1a107 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211678542731958 | proof=https://x.com/0xcynn/status/2116788081278273963
-[1]Dalimunthe  |07:05:11 | 01-11-2026| delay 10s...
-[1]Dalimunthe  |07:05:23 | 01-11-2026| [5/11] 76e5ce8c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211678542731958 | proof=https://x.com/0xcynn/status/2116788372000401535
-[1]Dalimunthe  |07:05:23 | 01-11-2026| delay 10s...
-[1]Dalimunthe  |07:05:36 | 01-11-2026| [6/11] 7354ea5e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211678542731958 | proof=https://x.com/0xcynn/status/2116788226644533268
-[1]Dalimunthe  |07:05:36 | 01-11-2026| delay 10s...
-[1]Dalimunthe  |07:05:48 | 01-11-2026| [7/11] 07e2b02d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211678542731958 | proof=https://x.com/0xcynn/status/2116788265383968294
-[1]Dalimunthe  |07:05:48 | 01-11-2026| delay 10s...
-[1]Dalimunthe  |07:06:00 | 01-11-2026| [8/11] 70541c21 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211678542731958 | proof=https://x.com/0xcynn/status/2116788379111398570
-[1]Dalimunthe  |07:06:00 | 01-11-2026| delay 10s...
-[1]Dalimunthe  |07:06:12 | 01-11-2026| [9/11] 587d9c2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211678542731958 | proof=https://x.com/0xcynn/status/2116788358788907204
-[1]Dalimunthe  |07:06:12 | 01-11-2026| delay 10s...
-[1]Dalimunthe  |07:06:26 | 01-11-2026| [10/11] 28bea61c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211678542731958 | proof=https://x.com/0xcynn/status/2116788376451111945
-[1]Dalimunthe  |07:06:26 | 01-11-2026| delay 10s...
-[1]Dalimunthe  |07:06:39 | 01-11-2026| [11/11] 50117b4a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211678542731958 | proof=https://x.com/0xcynn/status/2116788463747469372
-[1]Dalimunthe  |07:06:39 | 01-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Dalimunthe  |07:06:41 | 01-11-2026| [1/1] 044a9851 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116785427319587 | proof=https://x.com/0xcynn/status/2116788514285590976
+[1]Dalimunthe  |07:06:42 | 02-11-2026| daily: OK +10 poin score=3070
+--> [1]Dalimunthe menjalankan: Auto All Tasks (8 pending)
+[1]Dalimunthe  |07:06:43 | 02-11-2026| [1/8] 7f765e65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7f765e65-3ff5-4d7f-a39f-7884dc311eb3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211689924890218 | proof=https://x.com/0xcynn/status/2117150921845647189
+[1]Dalimunthe  |07:06:43 | 02-11-2026| delay 10s...
+[1]Dalimunthe  |07:06:59 | 02-11-2026| [2/8] 1622c12e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7f765e65-3ff5-4d7f-a39f-7884dc311eb3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211689924890218 | proof=https://x.com/0xcynn/status/2117151021852171752
+[1]Dalimunthe  |07:06:59 | 02-11-2026| delay 10s...
+[1]Dalimunthe  |07:07:12 | 02-11-2026| [3/8] 1f121fe2 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7f765e65-3ff5-4d7f-a39f-7884dc311eb3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211689924890218 | proof=https://x.com/0xcynn/status/2117151059331983235
+[1]Dalimunthe  |07:07:12 | 02-11-2026| delay 10s...
+[1]Dalimunthe  |07:07:24 | 02-11-2026| [4/8] 08fc1cbc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7f765e65-3ff5-4d7f-a39f-7884dc311eb3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211689924890218 | proof=https://x.com/0xcynn/status/2117151195366184245
+[1]Dalimunthe  |07:07:24 | 02-11-2026| delay 10s...
+[1]Dalimunthe  |07:07:34 | 02-11-2026| [5/8] 947c8235 (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/0xcynn/status/2117151232595140140
+[1]Dalimunthe  |07:07:34 | 02-11-2026| delay 10s...
+[1]Dalimunthe  |07:07:46 | 02-11-2026| [6/8] a473652b (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/0xcynn/status/2117151233635624654
+[1]Dalimunthe  |07:07:46 | 02-11-2026| delay 10s...
+[1]Dalimunthe  |07:07:58 | 02-11-2026| [7/8] 9d9a53d3 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7f765e65-3ff5-4d7f-a39f-7884dc311eb3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211689924890218 | proof=https://x.com/0xcynn/status/2117151358019725035
+[1]Dalimunthe  |07:07:58 | 02-11-2026| delay 10s...
+[1]Dalimunthe  |07:08:11 | 02-11-2026| [8/8] 55940470 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7f765e65-3ff5-4d7f-a39f-7884dc311eb3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211689924890218 | proof=https://x.com/0xcynn/status/2117151218550957755
+[1]Dalimunthe  |07:08:11 | 02-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Dalimunthe  |07:08:16 | 02-11-2026| [1/1] 7f765e65 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"7f765e65-3ff5-4d7f-a39f-7884dc311eb3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116899248902185 | proof=https://x.com/0xcynn/status/2117151304512097363
 --> [1]Dalimunthe menjalankan: Watch Anime
-[1]Dalimunthe  |07:06:42 | 01-11-2026| watch: semua video sudah completed
+[1]Dalimunthe  |07:08:17 | 02-11-2026| watch: semua video sudah completed
 --> [1]Dalimunthe menjalankan: Read Article
-[1]Dalimunthe  |07:06:45 | 01-11-2026| news: 32/33 artikel selesai dibaca
-[1]Dalimunthe  |07:06:45 | 01-11-2026| mint eligibility: {"userId":"1695425171220463616","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@0xrianda","status":"submitted","revision":"2bcd039d-b50a-4b91-8509-3c25093b951c"
-[1]Dalimunthe  |07:06:54 | 01-11-2026| news [1/1] oshi-labs-new-features-2026-11: OK completed=33
+[1]Dalimunthe  |07:08:19 | 02-11-2026| news: 33/34 artikel selesai dibaca
+[1]Dalimunthe  |07:08:19 | 02-11-2026| mint eligibility: {"userId":"1695425171220463616","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@0xrianda","status":"submitted","revision":"2bcd039d-b50a-4b91-8509-3c25093b951c"
+[1]Dalimunthe  |07:08:28 | 02-11-2026| news [1/1] oshi-nft-24h-volume-no2-2026-11: OK completed=34
 --> [1]Dalimunthe menjalankan: Quiz Anime
 --> [1]Dalimunthe menjalankan: Music Missions (realtime, bisa lama!)
-[1]Dalimunthe  |07:07:02 | 01-11-2026| music: kedua misi sudah tercapai, stop
-[1]Dalimunthe  |07:07:03 | 01-11-2026| mission music-listens-10: sudah diklaim
-[1]Dalimunthe  |07:07:03 | 01-11-2026| mission music-minutes-30: sudah diklaim
-[1]Dalimunthe  |07:07:03 | 01-11-2026| mission anime-completed-3: sudah diklaim
+[1]Dalimunthe  |07:08:34 | 02-11-2026| music: kedua misi sudah tercapai, stop
+[1]Dalimunthe  |07:08:34 | 02-11-2026| mission music-listens-10: sudah diklaim
+[1]Dalimunthe  |07:08:34 | 02-11-2026| mission music-minutes-30: sudah diklaim
+[1]Dalimunthe  |07:08:34 | 02-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Dalimunthe menjalankan: Claim Missions
-[1]Dalimunthe  |07:07:04 | 01-11-2026| mission music-listens-10: sudah diklaim
-[1]Dalimunthe  |07:07:04 | 01-11-2026| mission music-minutes-30: sudah diklaim
-[1]Dalimunthe  |07:07:04 | 01-11-2026| mission anime-completed-3: sudah diklaim
+[1]Dalimunthe  |07:08:35 | 02-11-2026| mission music-listens-10: sudah diklaim
+[1]Dalimunthe  |07:08:35 | 02-11-2026| mission music-minutes-30: sudah diklaim
+[1]Dalimunthe  |07:08:35 | 02-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Dalimunthe menjalankan: Check Eligibility
 
 --- eligibility [1]Dalimunthe ---
-  @0xcynn | score=2940 rank=2355
-  tasks    [####----------------] 3/14
+  @0xcynn | score=3060 rank=2271
+  tasks    [#########-----------] 6/14
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [?]
   watch    [####################] 22/17
   music    [#################---] 11/13
-  artikel  [####################] 33/33
+  artikel  [####################] 34/34
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Dalimunthe menjalankan: Read Manga
-[1]Dalimunthe  |07:07:08 | 01-11-2026| manga: 0/13 chapter belum completed
+[1]Dalimunthe  |07:08:39 | 02-11-2026| manga: 0/13 chapter belum completed
 --> [1]Dalimunthe menjalankan: Get Gift
-[1]Dalimunthe  |07:07:09 | 01-11-2026| gift: 0/6 belum diterima
+[1]Dalimunthe  |07:08:41 | 02-11-2026| gift: 3/9 belum diterima
+[1]Dalimunthe  |07:08:41 | 02-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Dalimunthe  |07:08:46 | 02-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Dalimunthe  |07:08:48 | 02-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Dalimunthe menjalankan: Setup Profile
-[1]Dalimunthe  |07:07:09 | 01-11-2026| profile: bio="Simulate text" fav=kagura rewardAt=1791330483
-[1]Dalimunthe  |07:07:09 | 01-11-2026| profile: bonus sudah diklaim, skip
+[1]Dalimunthe  |07:08:51 | 02-11-2026| profile: bio="Simulate text" fav=kagura rewardAt=1791330483
+[1]Dalimunthe  |07:08:51 | 02-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Dalimunthe menjalankan: Bind Wallet
-[1]Dalimunthe  |07:07:10 | 01-11-2026| wallet: sudah terikat 7EvQgumG94... (solana)
+[1]Dalimunthe  |07:08:51 | 02-11-2026| wallet: sudah terikat 7EvQgumG94... (solana)
 
 == RINGKASAN ==
-- Dalimunthe: daily=claimed | tasks OK 12/12 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/6 diterima | profile - | wallet bound | mint req=false open=false
+- Dalimunthe: daily=claimed | tasks OK 7/9 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
