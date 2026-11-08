@@ -12,41 +12,43 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Dalimunthe =====
-[1]Dalimunthe  |11:24:04 | 07-11-2026| login OK @0xcynn | score=3260 rank=2121
-[1]Dalimunthe  |11:24:04 | 07-11-2026| serverTime=2026-11-07T11:24:04.000Z local=2026-11-07T11:24:04.535Z
+[1]Dalimunthe  |09:50:43 | 08-11-2026| login OK @0xcynn | score=3310 rank=2090
+[1]Dalimunthe  |09:50:43 | 08-11-2026| serverTime=2026-11-08T09:50:42.000Z local=2026-11-08T09:50:43.009Z
 --> [1]Dalimunthe menjalankan: Claim Daily
-[1]Dalimunthe  |11:24:05 | 07-11-2026| daily: OK +10 poin score=3270
---> [1]Dalimunthe menjalankan: Auto All Tasks (4 pending)
-[1]Dalimunthe  |11:24:07 | 07-11-2026| [1/4] 00a6a949 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/0xcynn/status/2119027528880466464
-[1]Dalimunthe  |11:24:07 | 07-11-2026| delay 10s...
-[1]Dalimunthe  |11:24:20 | 07-11-2026| [2/4] 3031f6f7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/0xcynn/status/2119027900393023777
-[1]Dalimunthe  |11:24:20 | 07-11-2026| delay 10s...
-[1]Dalimunthe  |11:24:32 | 07-11-2026| [3/4] 191dc55f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/0xcynn/status/2119027884283459305
-[1]Dalimunthe  |11:24:32 | 07-11-2026| delay 10s...
-[1]Dalimunthe  |11:24:44 | 07-11-2026| [4/4] 3511b911 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/0xcynn/status/2119027841997317303
-[1]Dalimunthe  |11:24:44 | 07-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Dalimunthe  |11:24:46 | 07-11-2026| [1/1] 00a6a949 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2118895980104015 | proof=https://x.com/0xcynn/status/2119027729822879674
+[1]Dalimunthe  |09:50:44 | 08-11-2026| daily: OK +10 poin score=3320
+--> [1]Dalimunthe menjalankan: Auto All Tasks (5 pending)
+[1]Dalimunthe  |09:50:46 | 08-11-2026| [1/5] 8ff23e97 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"8ff23e97-12ac-4372-9e7c-dd5118614f4b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211935783815390 | proof=https://x.com/0xcynn/status/2119366645196494719
+[1]Dalimunthe  |09:50:46 | 08-11-2026| delay 10s...
+[1]Dalimunthe  |09:50:59 | 08-11-2026| [2/5] 1e22156f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"8ff23e97-12ac-4372-9e7c-dd5118614f4b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211935783815390 | proof=https://x.com/0xcynn/status/2119366606119801731
+[1]Dalimunthe  |09:50:59 | 08-11-2026| delay 10s...
+[1]Dalimunthe  |09:51:10 | 08-11-2026| [3/5] e0619629 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"8ff23e97-12ac-4372-9e7c-dd5118614f4b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211935783815390 | proof=https://x.com/0xcynn/status/2119366583336397164
+[1]Dalimunthe  |09:51:10 | 08-11-2026| delay 10s...
+[1]Dalimunthe  |09:51:22 | 08-11-2026| [4/5] 260028a2 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"8ff23e97-12ac-4372-9e7c-dd5118614f4b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211935783815390 | proof=https://x.com/0xcynn/status/2119366888203284726
+[1]Dalimunthe  |09:51:22 | 08-11-2026| delay 10s...
+[1]Dalimunthe  |09:51:34 | 08-11-2026| [5/5] ceb22d73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"8ff23e97-12ac-4372-9e7c-dd5118614f4b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211935783815390 | proof=https://x.com/0xcynn/status/2119366836619138536
+[1]Dalimunthe  |09:51:34 | 08-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Dalimunthe  |09:51:35 | 08-11-2026| [1/1] 8ff23e97 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"8ff23e97-12ac-4372-9e7c-dd5118614f4b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2119357838153904 | proof=https://x.com/0xcynn/status/2119366592080640238
 --> [1]Dalimunthe menjalankan: Watch Anime
-[1]Dalimunthe  |11:24:46 | 07-11-2026| watch: semua video sudah completed
+[1]Dalimunthe  |09:51:35 | 08-11-2026| watch: semua video sudah completed
 --> [1]Dalimunthe menjalankan: Read Article
-[1]Dalimunthe  |11:24:48 | 07-11-2026| news: 34/34 artikel selesai dibaca
-[1]Dalimunthe  |11:24:48 | 07-11-2026| mint eligibility: {"userId":"1695425171220463616","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@0xrianda","status":"submitted","revision":"2bcd039d-b50a-4b91-8509-3c25093b951c"
-[1]Dalimunthe  |11:24:48 | 07-11-2026| news: semua artikel sudah dibaca
+[1]Dalimunthe  |09:51:37 | 08-11-2026| news: 34/34 artikel selesai dibaca
+[1]Dalimunthe  |09:51:38 | 08-11-2026| mint eligibility: {"userId":"1695425171220463616","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@0xrianda","status":"submitted","revision":"2bcd039d-b50a-4b91-8509-3c25093b951c"
+[1]Dalimunthe  |09:51:38 | 08-11-2026| news: semua artikel sudah dibaca
 --> [1]Dalimunthe menjalankan: Quiz Anime
 --> [1]Dalimunthe menjalankan: Music Missions (realtime, bisa lama!)
-[1]Dalimunthe  |11:24:50 | 07-11-2026| music: kedua misi sudah tercapai, stop
-[1]Dalimunthe  |11:24:51 | 07-11-2026| mission music-listens-10: sudah diklaim
-[1]Dalimunthe  |11:24:51 | 07-11-2026| mission music-minutes-30: sudah diklaim
-[1]Dalimunthe  |11:24:51 | 07-11-2026| mission anime-completed-3: sudah diklaim
+[1]Dalimunthe  |09:51:40 | 08-11-2026| music: kedua misi sudah tercapai, stop
+[1]Dalimunthe  |09:51:40 | 08-11-2026| mission music-listens-10: sudah diklaim
+[1]Dalimunthe  |09:51:40 | 08-11-2026| mission music-minutes-30: sudah diklaim
+[1]Dalimunthe  |09:51:40 | 08-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Dalimunthe menjalankan: Claim Missions
-[1]Dalimunthe  |11:24:51 | 07-11-2026| mission music-listens-10: sudah diklaim
-[1]Dalimunthe  |11:24:51 | 07-11-2026| mission music-minutes-30: sudah diklaim
-[1]Dalimunthe  |11:24:51 | 07-11-2026| mission anime-completed-3: sudah diklaim
+[1]Dalimunthe  |09:51:41 | 08-11-2026| mission music-listens-10: sudah diklaim
+[1]Dalimunthe  |09:51:41 | 08-11-2026| mission music-minutes-30: sudah diklaim
+[1]Dalimunthe  |09:51:41 | 08-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Dalimunthe menjalankan: Check Eligibility
 
 --- eligibility [1]Dalimunthe ---
-  @0xcynn | score=3260 rank=2121
-  tasks    [####----------------] 1/5
+  @0xcynn | score=3310 rank=2090
+  tasks    [######--------------] 2/7
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -57,17 +59,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Dalimunthe menjalankan: Read Manga
-[1]Dalimunthe  |11:24:55 | 07-11-2026| manga: 0/13 chapter belum completed
+[1]Dalimunthe  |09:51:44 | 08-11-2026| manga: 0/13 chapter belum completed
 --> [1]Dalimunthe menjalankan: Get Gift
-[1]Dalimunthe  |11:24:57 | 07-11-2026| gift: 3/9 belum diterima
-[1]Dalimunthe  |11:24:58 | 07-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Dalimunthe  |11:25:00 | 07-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Dalimunthe  |11:25:03 | 07-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Dalimunthe  |09:51:45 | 08-11-2026| gift: 3/9 belum diterima
+[1]Dalimunthe  |09:51:46 | 08-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Dalimunthe  |09:51:49 | 08-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Dalimunthe  |09:51:52 | 08-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Dalimunthe menjalankan: Setup Profile
-[1]Dalimunthe  |11:25:06 | 07-11-2026| profile: bio="Simulate text" fav=kagura rewardAt=1791330483
-[1]Dalimunthe  |11:25:06 | 07-11-2026| profile: bonus sudah diklaim, skip
+[1]Dalimunthe  |09:51:54 | 08-11-2026| profile: bio="Simulate text" fav=kagura rewardAt=1791330483
+[1]Dalimunthe  |09:51:54 | 08-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Dalimunthe menjalankan: Bind Wallet
-[1]Dalimunthe  |11:25:06 | 07-11-2026| wallet: sudah terikat 7EvQgumG94... (solana)
+[1]Dalimunthe  |09:51:55 | 08-11-2026| wallet: sudah terikat 7EvQgumG94... (solana)
 
 == RINGKASAN ==
-- Dalimunthe: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
+- Dalimunthe: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
